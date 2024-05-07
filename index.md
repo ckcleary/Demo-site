@@ -9,4 +9,4 @@ layout: default
 
 ##Student work
 
-![Spring24 Tri-Co Philly students in West Philly](https://drive.google.com/file/d/1_kejfEqDuJPt9kMZbPxBSLWQCvorPiH5/view?usp=sharing)
+![Spring24 Tri-Co Philly students in West Philly](https://drive.google.com/file/d/1_kejfEqDuJPt9kMZbPxBSLWQCvorPiH5/view)
