@@ -9,4 +9,4 @@ layout: default
 
 ##Student work
 
-![Fall 2024 Tri-Co Philly Poster](https://drive.google.com/file/d/13gyfRhOhi0MBMjf6BOm04DvFqRZOeRGE/view?usp=drive_link)
+![Sp. /'24 Tri-Co Philly in West Philly](https://drive.google.com/file/d/1_kejfEqDuJPt9kMZbPxBSLWQCvorPiH5/view?usp=sharing)
