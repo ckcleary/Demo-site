@@ -1,4 +1,4 @@
-## About
+## Tri-Co Philly
 
 ##Classes
 
