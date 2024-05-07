@@ -1,5 +1,5 @@
 ---
-title: Tri-Co Philly
+title: Tri-Co Philly Program
 layout: default
 ---
 
