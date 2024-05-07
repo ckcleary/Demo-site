@@ -1,4 +1,9 @@
-## Tri-Co Philly
+---
+title: Tri-Co Philly
+layout: default
+---
+
+## About
 
 ##Classes
 
